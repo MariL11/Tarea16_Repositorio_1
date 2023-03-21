@@ -26,3 +26,4 @@ section{color: #DDD;}
 |un|deux|trois|quatre|
 |eins|zwei|drei|vier|
 
+[Pincha aquí para ir a información](informacion.md)
