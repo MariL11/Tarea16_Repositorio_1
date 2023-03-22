@@ -27,4 +27,5 @@ section{color: #DDD;}
 |eins|zwei|drei|vier|
 
 [Pincha aquí para ir a información](informacion.md)
+<br>
 [Pincha aquí para ir a instalación](instalacion.md)
